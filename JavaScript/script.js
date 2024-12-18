@@ -1,12 +1,13 @@
 document.addEventListener("DOMContentLoaded", () => {
     const textoInterativo3 = document.getElementById("texto-interativo-3");
     const frases = [
-        "Analista de Sistemas",
-        "Desenvolvedor de Sistemas",
-        "Analista de Dados",
-        "Programador",
-        "Desenvolvedor de Software",
-        "Desenvolvedor Banco de Dados"
+        "Analista de Sistemas Jr",
+        "Desenvolvedor de Sistemas Jr",
+        "Analista de Dados Jr",
+        "Programador Jr",
+        "Desenvolvedor de Software Jr",
+        "Desenvolvedor Banco de Dados Jr",
+        "Analista IOT Jr"
     ];
     let fraseIndex = 0;
     let charIndex = 0;
